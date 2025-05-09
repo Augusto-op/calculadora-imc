@@ -1,2 +1,8 @@
 # calculadora-imc
-caculadora imc com python
+calculo de imc 
+
+imc = (peso / altura²)
+
+## requisitos:
+
+Python3
